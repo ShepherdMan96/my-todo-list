@@ -1,3 +1,3 @@
 # README
 
-This is my Todo list!
+This is my Todo list app!
